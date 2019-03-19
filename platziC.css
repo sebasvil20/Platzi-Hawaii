@@ -6,6 +6,9 @@
   max-height: 100vh;
   object-fit: cover;
 }
+.navbar-toggler{
+  background-color: #97c93e;
+}
 
 #carousel{
   position: relative;
